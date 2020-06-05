@@ -1,4 +1,4 @@
-namespace: dh-prod-jupyterhub
+namespace: dh-prod-jupyterhub-argocd
 resources:
 - ../../bases/jupyterhub
 - ../../bases/custom-images

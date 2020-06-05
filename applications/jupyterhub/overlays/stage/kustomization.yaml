@@ -1,4 +1,4 @@
-namespace: dh-stage-jupyterhub
+namespace: dh-stage-jupyterhub-argocd
 resources:
 - ../../bases/jupyterhub
 - ../../bases/custom-profiles
